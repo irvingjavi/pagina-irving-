@@ -7,7 +7,12 @@ paso2: sube los archivos que se mencionen (nota: para que funcionen no tiene que
 paso3: ve a configuraciones y dirigete a la parte de pages,
 paso4: en la opcion breach usa la opcion main en vez de none,
 paso5: dale en save y podras abrir tu archivo (nota2: tarda un momento en aparecer vuelve a code y en un momento a configuraciones otra vez)
-paso6: vuelve a a pages y tendras tu archivo listo para abrir!!
+paso6: vuelve a a pages y tendras tu archivo listo para abrir!!!
+
+
+
+[EmoPibbleGIF](https://github.com/user-attachments/assets/7815907c-d75b-4549-9c16-6a0195eb15ef)
+
 
 
 ![KotKupaGIF](https://github.com/user-attachments/assets/38bf1270-eecc-46f0-b567-fde33023c617)
