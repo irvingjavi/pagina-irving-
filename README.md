@@ -11,9 +11,6 @@ paso6: vuelve a a pages y tendras tu archivo listo para abrir!!!
 
 
 
-[EmoPibbleGIF](https://github.com/user-attachments/assets/7815907c-d75b-4549-9c16-6a0195eb15ef)
-
-
 
 ![KotKupaGIF](https://github.com/user-attachments/assets/38bf1270-eecc-46f0-b567-fde33023c617)
 
